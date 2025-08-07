@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Canvas extends JPanel {   
     private final static int STROKE_SIZE = 8;
-
+ 
     // holds all the paths created in the canvas
     private List<List<ColorPoint>> allPaths;
 
