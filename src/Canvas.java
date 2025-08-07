@@ -5,7 +5,7 @@ import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Canvas extends JPanel {
+public class Canvas extends JPanel {   
     private final static int STROKE_SIZE = 8;
 
     // holds all the paths created in the canvas
